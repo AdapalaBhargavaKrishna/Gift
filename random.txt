@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Love</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main">
+        <div class="left"> </div>
+        <div class="middle">
+             <div class="card">
+                <h1>💗My Dearest Love💗</h1>
+                <div class="info">
+                    <h2>A Letter From The Heart 💌</h2>
+                    <p>
+                        My love, 💕 <br><br>
+                        From the moment our eyes first met, my heart knew that you were the one who would complete me. Each day spent with you is a blessing, and I am forever grateful for your love, your warmth, and your presence in my life. 🌹<br><br>
+                        You are my sunrise 🌞, my joy, and the reason I wake up every morning with a smile 😊. With every touch, every word, every glance, I fall deeper in love with you 💓. I can't imagine a world without you by my side, for you are my everything. 💖<br><br>
+                        In your arms, I have found my home 🏡. Your love fills the empty spaces in my heart ❤️, and I feel more complete than I ever thought possible. I promise to cherish you, to hold you close, and to love you with all my heart, today and forever. 💍<br><br>
+                        You are the love of my life, and I am yours, always. 💕<br><br>
+                        Forever yours, <br>
+                        Bhargava 💌
+                    </p>
+                </div>
+             </div>
+        </div>
+        <div class="right"> </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
