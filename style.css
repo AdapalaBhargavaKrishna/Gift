@@ -188,7 +188,7 @@ body {
 
 @media (max-width: 450px) {
     .main {
-        flex-direction: column; /* Stack the elements vertically */
+        flex-direction: column;
         height: 100%;
         background-color: #ffb6c1b3;
     }
@@ -203,9 +203,9 @@ body {
     }
 
     .card {
-        margin: 1rem 0px;
+        margin-bottom: 2rem;
         width: 90%;
-        height: auto;
+
     }
 
     .card > h2 {
