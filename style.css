@@ -199,7 +199,7 @@ body {
 
     .middle {
         width: 100%; /* Take full width */
-        height: auto; /* Adjust height automatically */
+        height: 100vh; /* Adjust height automatically */
     }
 
     .card {
@@ -210,7 +210,7 @@ body {
 
     .info {
         padding: 5%; /* Add some padding for mobile */
-        height: 85vh;
+        height: 70vh;
         overflow-y: auto; 
     }
 
