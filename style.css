@@ -194,27 +194,31 @@ body {
     }
 
     .left, .right {
-        display: none; /* Hide left and right sections on small screens */
+        display: none;
     }
 
     .middle {
-        width: 100%; /* Take full width */
-        height: 100vh; /* Adjust height automatically */
+        width: 100%;
+        height: 100vh;
     }
 
     .card {
         margin: 1rem 0px;
-        width: 90%; /* Make the card wider */
-        height: auto; /* Allow the card height to adjust */
+        width: 90%;
+        height: auto;
+    }
+
+    .card > h2 {
+        margin: 14px;
     }
 
     .info {
-        padding: 5%; /* Add some padding for mobile */
+        padding: 5%;
         height: 70vh;
-        overflow-y: auto; 
+        overflow-y: auto;
+        margin-top: 10px;
     }
 
-    /* Make sure the audio controls are displayed properly on mobile */
     .audio-controls {
         width: 50%;
         justify-content: space-between;
